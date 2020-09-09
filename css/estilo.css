@@ -1,0 +1,30 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+h1{
+	text-align:center;
+	color:#cc0000;
+}
+
+h2 {
+text-align:left
+}
+
+#barra{
+color: #ffffff;
+font-size:15px;	
+}
+
+#noticia{
+color: #000000;	
+}
+a:link {
+color: #ffffff;
+background-color: #000079;
+}
+
+a:visited {
+color: #ffffff;
+background-color: #000079;
+}
